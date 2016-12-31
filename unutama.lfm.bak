@@ -1,0 +1,138 @@
+object frm_utama: Tfrm_utama
+  Left = 0
+  Height = 420
+  Top = 0
+  Width = 703
+  ActiveControl = Button1
+  Caption = 'Manga Downloader'
+  ClientHeight = 420
+  ClientWidth = 703
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  Visible = False
+  object Label1: TLabel
+    Left = 22
+    Height = 15
+    Top = 15
+    Width = 58
+    Caption = 'Manga List'
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 152
+    Height = 25
+    Top = 376
+    Width = 58
+    Caption = 'Get List'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object ProgressBar1: TProgressBar
+    Left = 22
+    Height = 20
+    Top = 381
+    Width = 126
+    TabOrder = 1
+  end
+  object lsb_manga: TListBox
+    Left = 22
+    Height = 309
+    Top = 62
+    Width = 187
+    ItemHeight = 0
+    TabOrder = 2
+  end
+  object clb_title: TCheckListBox
+    Left = 233
+    Height = 341
+    Top = 60
+    Width = 239
+    ItemHeight = 0
+    TabOrder = 3
+  end
+  object button2: TButton
+    Left = 414
+    Height = 25
+    Top = 31
+    Width = 58
+    Caption = 'Get List'
+    OnClick = button2Click
+    TabOrder = 4
+  end
+  object ProgressBar2: TProgressBar
+    Left = 231
+    Height = 20
+    Top = 32
+    Width = 175
+    TabOrder = 5
+  end
+  object Label2: TLabel
+    Left = 231
+    Height = 15
+    Top = 8
+    Width = 63
+    Caption = 'Chapter List'
+    ParentColor = False
+  end
+  object DirectoryEdit1: TDirectoryEdit
+    Left = 496
+    Height = 23
+    Top = 112
+    Width = 184
+    Directory = 'C:\'
+    ShowHidden = False
+    ButtonWidth = 23
+    NumGlyphs = 1
+    MaxLength = 0
+    TabOrder = 6
+    Text = 'C:\'
+  end
+  object Label3: TLabel
+    Left = 500
+    Height = 15
+    Top = 90
+    Width = 72
+    Caption = 'Download Dir'
+    ParentColor = False
+  end
+  object Button3: TButton
+    Left = 500
+    Height = 25
+    Top = 191
+    Width = 75
+    Caption = 'Download'
+    OnClick = Button3Click
+    TabOrder = 7
+  end
+  object ProgressBar3: TProgressBar
+    Left = 500
+    Height = 20
+    Top = 164
+    Width = 182
+    OnContextPopup = ProgressBar3ContextPopup
+    TabOrder = 8
+  end
+  object lbl_ket: TLabel
+    Left = 504
+    Height = 1
+    Top = 142
+    Width = 1
+    ParentColor = False
+  end
+  object Edit1: TEdit
+    Left = 24
+    Height = 23
+    Top = 34
+    Width = 124
+    TabOrder = 9
+  end
+  object Button4: TButton
+    Left = 152
+    Height = 25
+    Top = 32
+    Width = 58
+    Caption = 'Search'
+    OnClick = Button4Click
+    TabOrder = 10
+  end
+end

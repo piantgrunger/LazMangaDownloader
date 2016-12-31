@@ -7,15 +7,13 @@ uses
   cthreads,
   {$ENDIF}{$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, unit1, unUtama
-  { you can add units after this };
+  Forms;
 
 {$R *.res}
 
 begin
   RequireDerivedFormResource:=True;
   Application.Initialize;
-  Application.CreateForm(Tfrm_utama, frm_utama);
   Application.Run;
 end.
 

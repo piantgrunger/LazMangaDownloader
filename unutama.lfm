@@ -9,6 +9,7 @@ object frm_utama: Tfrm_utama
   ClientWidth = 703
   OnCreate = FormCreate
   OnDestroy = FormDestroy
+  LCLVersion = '1.7'
   Visible = False
   object Label1: TLabel
     Left = 22

@@ -6,10 +6,9 @@
     <BuildModes Active="Default"/>
     <Units Count="2">
       <Unit0>
-        <Filename Value="prLazManga.lpr"/>
+        <Filename Value="prLazManga.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="1"/>
-        <CursorPos X="10" Y="10"/>
+        <IsVisibleTab Value="True"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -20,135 +19,12 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="unUtama"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="210"/>
-        <CursorPos X="50" Y="233"/>
+        <EditorIndex Value="1"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="30" HistoryIndex="29">
-      <Position1>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="173" Column="30" TopLine="167"/>
-      </Position1>
-      <Position2>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="188" Column="43" TopLine="171"/>
-      </Position2>
-      <Position3>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="177" Column="26" TopLine="171"/>
-      </Position3>
-      <Position4>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="181" TopLine="171"/>
-      </Position4>
-      <Position5>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="182" TopLine="171"/>
-      </Position5>
-      <Position6>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="183" TopLine="171"/>
-      </Position6>
-      <Position7>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="185" TopLine="171"/>
-      </Position7>
-      <Position8>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="186" TopLine="171"/>
-      </Position8>
-      <Position9>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="187" TopLine="171"/>
-      </Position9>
-      <Position10>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="188" TopLine="171"/>
-      </Position10>
-      <Position11>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="189" TopLine="171"/>
-      </Position11>
-      <Position12>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="191" TopLine="171"/>
-      </Position12>
-      <Position13>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="195" Column="21" TopLine="171"/>
-      </Position13>
-      <Position14>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="180" TopLine="171"/>
-      </Position14>
-      <Position15>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="190" Column="66" TopLine="171"/>
-      </Position15>
-      <Position16>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="192" Column="69" TopLine="169"/>
-      </Position16>
-      <Position17>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="193" Column="69" TopLine="170"/>
-      </Position17>
-      <Position18>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="185" Column="34" TopLine="168"/>
-      </Position18>
-      <Position19>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="138" TopLine="125"/>
-      </Position19>
-      <Position20>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="13" Column="34"/>
-      </Position20>
-      <Position21>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="191" Column="37" TopLine="187"/>
-      </Position21>
-      <Position22>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="71" Column="3" TopLine="68"/>
-      </Position22>
-      <Position23>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="72" Column="3" TopLine="69"/>
-      </Position23>
-      <Position24>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="74" Column="3" TopLine="71"/>
-      </Position24>
-      <Position25>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="226" Column="31" TopLine="204"/>
-      </Position25>
-      <Position26>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="210" Column="15" TopLine="209"/>
-      </Position26>
-      <Position27>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="163" Column="3" TopLine="161"/>
-      </Position27>
-      <Position28>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="162" Column="3" TopLine="160"/>
-      </Position28>
-      <Position29>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="179" Column="4" TopLine="177"/>
-      </Position29>
-      <Position30>
-        <Filename Value="unutama.pas"/>
-        <Caret Line="174" Column="7" TopLine="172"/>
-      </Position30>
-    </JumpHistory>
+    <JumpHistory HistoryIndex="-1"/>
   </ProjectSession>
 </CONFIG>
